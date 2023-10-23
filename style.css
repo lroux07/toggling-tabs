@@ -31,7 +31,7 @@ select {
   padding: 5px;
 }
 
-input {
+input, label {
   display: none;
 }
 
